@@ -1,1 +1,1 @@
-Project shell basics
+listing 6 /tmp/ directory
