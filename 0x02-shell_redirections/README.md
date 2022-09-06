@@ -1,0 +1,2 @@
+Shell Basic Redirections assignment
+file1:Hello_world
